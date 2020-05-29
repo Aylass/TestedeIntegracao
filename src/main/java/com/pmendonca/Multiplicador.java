@@ -65,12 +65,13 @@ public class Multiplicador {
         outro = outro.abs();
 
         //divide
+        //cria um count que conta quantas vezes podemos subtrair outro de resultado e o armazena como resultado.
         Numero count = new Numero(0);
         while(resultado.resultado().valor() >= outro.valor()){
             count.inc();
             resultado.menos(outro);
         }
-        resultado.set(new Numero(count.valor()));
+        resultado = resultado.set(new Numero(count.valor()));
 
         //se os sinais forem diferentes, o resultado era pra ser negativo, entao transforma em negativo
         if(resultadoPos!=outroPos){
