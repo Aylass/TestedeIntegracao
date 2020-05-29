@@ -18,7 +18,7 @@ public class Multiplicador {
             resultado = resultado.set(new Numero(0));
             return this;
         }
-        //da linha 17 ate a 20 descobre e armazena a informacao de valor positivo ou negativo dos numeros
+        //nas proximas 4 linhas descobre e armazena a informacao de valor positivo ou negativo dos numeros
         boolean resultadoPos = true;
         boolean outroPos = true;
         if(resultado.resultado().valor()<0)resultadoPos=false;
