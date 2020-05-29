@@ -66,7 +66,6 @@ public class Multiplicador {
 
         //divide
         Numero count = new Numero(0);
-        Numero res = new Numero(resultado.resultado().valor());
         while(resultado.resultado().valor() >= outro.valor()){
             count.inc();
             resultado.menos(outro);
