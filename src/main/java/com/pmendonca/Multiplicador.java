@@ -13,43 +13,31 @@ public class Multiplicador {
     }
 
     public Multiplicador vezes(Numero outro){
-        if(resultado.resultado().valor()==0 || outro.valor()==0){
-            //se qualquer um dos numeros, ou até mesmo os dois numeros, forem 0, o resultado é 0.
-            resultado.set(new Numero(0));
+        if(outro.valor()==0 || resultado.resultado().valor()==0){
+            //se um dos dois for 0, a resposta é zero porque 0*n=0
+            resultado = resultado.set(new Numero(0));
+            return this;
         }
-        else if((resultado.resultado().valor()<0 && outro.valor()<0) || (resultado.resultado().valor()>=0 && outro.valor()>=0)){
-            //os dois sao negativos ou os 2 sao positivos, por tanto o resultado do produto é positivo.
-            //transforma o resultado atual e a variavel outro em positivos (caso ainda nao sejam)
-            outro=outro.abs();
-            this.resultado = this.resultado.set(this.resultado.resultado().abs());
-            //multiplica
-            Numero res = new Numero(resultado.resultado().valor());
-            while(outro.valor()>1){
-                resultado.mais(res);
-                outro.dec();
-            }
-        }
-        else if(resultado.resultado().valor()>=0){
-            //o outro é negativo, e o atual é positivo, vai dar negativo.
-            //transforma resultado em negativo e outro em positivo, pra dar negativo.
-            this.resultado=this.resultado.set(new Numero(-this.resultado.resultado().valor()));
-            outro = outro.abs();
-            //multiplica
-            Numero res = new Numero(resultado.resultado().valor());
-            while(outro.valor()>1){
-                resultado.menos(res);
-                outro.dec();
-            }
-        }
-        else{
-            //o resultado atual é negativo, e o outro positivo, é só multiplicar normal que dará negativo
+        //da linha 17 ate a 20 descobre e armazena a informacao de valor positivo ou negativo dos numeros
+        boolean resultadoPos = true;
+        boolean outroPos = true;
+        if(resultado.resultado().valor()<0)resultadoPos=false;
+        if(outro.valor()<0)outroPos=false;
 
-            //multiplica
-            Numero res = new Numero(resultado.resultado().valor());
-            while(outro.valor()>1){
-                resultado.menos(res);
-                outro.dec();
-            }
+        //transforma os dois valores em positivo para multiplicar com o while
+        resultado = resultado.set(resultado.resultado().abs());
+        outro = outro.abs();
+
+        //multiplica
+        Numero res = new Numero(resultado.resultado().valor());
+        while(outro.valor()>1){
+            resultado.mais(res);
+            outro.dec();
+        }
+
+        //se os sinais forem diferentes, o resultado era pra ser negativo, entao transforma em negativo
+        if(resultadoPos!=outroPos){
+            resultado = resultado.set(new Numero(-resultado.resultado().valor()));
         }
         return this;
     }
