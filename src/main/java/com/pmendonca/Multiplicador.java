@@ -18,7 +18,7 @@ public class Multiplicador {
             resultado = resultado.set(new Numero(0));
             return this;
         }
-        //da linha 17 ate a 20 descobre e armazena a informacao de valor positivo ou negativo dos numeros
+        //nas proximas 4 linhas descobre e armazena a informacao de valor positivo ou negativo dos numeros
         boolean resultadoPos = true;
         boolean outroPos = true;
         if(resultado.resultado().valor()<0)resultadoPos=false;
@@ -34,6 +34,44 @@ public class Multiplicador {
             resultado.mais(res);
             outro.dec();
         }
+
+        //se os sinais forem diferentes, o resultado era pra ser negativo, entao transforma em negativo
+        if(resultadoPos!=outroPos){
+            resultado = resultado.set(new Numero(-resultado.resultado().valor()));
+        }
+        return this;
+    }
+
+    public Multiplicador dividido(Numero outro){
+        if(outro.valor()==0){
+            //divisao por 0 é indefinido, operacao invalida.
+            System.out.println("Divisao por 0, invalido!");
+            resultado=resultado.set(null);
+            return this;
+        }
+        if(resultado.resultado().valor()==0){
+            //se o numero a ser divido for 0, o resultado é 0.
+            resultado = resultado.set(new Numero(0));
+            return this;
+        }
+        //nas proximas 4 linhas descobre e armazena a informacao de valor positivo ou negativo dos numeros
+        boolean resultadoPos = true;
+        boolean outroPos = true;
+        if(resultado.resultado().valor()<0)resultadoPos=false;
+        if(outro.valor()<0)outroPos=false;
+
+        //transforma os dois valores em positivo para multiplicar com o while
+        resultado = resultado.set(resultado.resultado().abs());
+        outro = outro.abs();
+
+        //divide
+        Numero count = new Numero(0);
+        Numero res = new Numero(resultado.resultado().valor());
+        while(resultado.resultado().valor() >= outro.valor()){
+            count.inc();
+            resultado.menos(outro);
+        }
+        resultado.set(new Numero(count.valor()));
 
         //se os sinais forem diferentes, o resultado era pra ser negativo, entao transforma em negativo
         if(resultadoPos!=outroPos){
