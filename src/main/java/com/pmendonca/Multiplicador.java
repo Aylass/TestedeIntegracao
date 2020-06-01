@@ -1,8 +1,10 @@
 package com.pmendonca;
 
+import java.util.logging.Logger;
+
 public class Multiplicador {
     private Somador resultado;
-
+    Logger logger = Logger.getLogger("log");
     public Multiplicador(Somador somador) {
         this.resultado = somador;
     }
@@ -39,7 +41,7 @@ public class Multiplicador {
     public Multiplicador dividido(Numero outro) {
         if (outro.valor() == 0) {
             // divisao por 0 é indefinido, operacao invalida.
-            System.out.println("Divisao por 0, invalido!");
+            logger.warning("Divisao por 0, invalido!");
             resultado = resultado.set(null);
             return this;
         }
