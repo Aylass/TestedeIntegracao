@@ -33,8 +33,8 @@ public class Fatorial {
             resultado.vezes(val);
             valor.dec();
         }
-        logger.info("resultado :"+resultado.resultado());
-        logger.info("valor: "+valor.valor());
+        logger.info("resultado final:"+resultado.resultado());
+
         return this;
     }
 

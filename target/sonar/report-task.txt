@@ -3,5 +3,5 @@ projectKey=testeIntegracao
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.8394
 dashboardUrl=https://sonarcloud.io/dashboard?id=testeIntegracao
-ceTaskId=AXJxnEoAyMBxd9OT8_eH
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXJxnEoAyMBxd9OT8_eH
+ceTaskId=AXJxn_FVidD4eScFUMyj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXJxn_FVidD4eScFUMyj
