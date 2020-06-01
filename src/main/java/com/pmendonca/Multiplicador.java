@@ -21,7 +21,7 @@ public class Multiplicador {
         // nas proximas 4 linhas descobre e armazena a informacao de valor positivo ou
         // negativo dos numeros
 
-        boolean sinalDiferente = sinalDiferente(resultado, outro);
+        boolean sinalDiferente = sinalDiferente(outro);
 
         // multiplica
         Numero res = new Numero(resultado.resultado().valor());
@@ -50,7 +50,7 @@ public class Multiplicador {
         }
         // nas proximas 4 linhas descobre e armazena a informacao de valor positivo ou
         // negativo dos numeros
-        boolean sinalDiferente = sinalDiferente(resultado, outro);
+        boolean sinalDiferente = sinalDiferente(outro);
 
         // transforma os dois valores em positivo para multiplicar com o while
         resultado = resultado.set(resultado.resultado().abs());
@@ -78,9 +78,9 @@ public class Multiplicador {
         return resultado.resultado();
     }
 
-    public boolean sinalDiferente(Somador soma, Numero numero) {
-        boolean resultadoPos = !(resultado.resultado().valor() < 0);
-        boolean outroPos = !(numero.valor() < 0);
+    public boolean sinalDiferente(Numero numero) {
+        boolean resultadoPos = (resultado.resultado().valor() >= 0);
+        boolean outroPos = (numero.valor() >= 0);
         return resultadoPos != outroPos;
     }
 
