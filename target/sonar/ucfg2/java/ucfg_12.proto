@@ -140,7 +140,8 @@ eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/p
 
 valorcom.pmendonca.Numero2valor()*
 6
-7*Í
+7*û
+
 1o
 eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java$ $(Ã
 À
@@ -151,56 +152,29 @@ eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/p
 loggerÉ
 Æ
 o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java$" $(+"
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java$' $(0"
 %16com.pmendonca.Multiplicador"__id*)*'
 com.pmendonca.Fatorial"
 	resultadoƒ€
 o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java$" $(7
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java$' $(<
 %17com.pmendonca.Numero"=com.pmendonca.Multiplicador#resultado()Lcom/pmendonca/Numero;*$
 "
-%16com.pmendonca.Multiplicador2resultado()Ç
-Ä
+%16com.pmendonca.Multiplicador2resultado()Ì
+É
 o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java$ $(7
-%18java.lang.String"__concat*
-resultado :*
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java$ $(<
+%18java.lang.String"__concat*
+resultado final:*
 
 %17com.pmendonca.NumeroŠ
 o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java$ $(8
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java$ $(=
 %19void"2java.util.logging.Logger#info(Ljava/lang/String;)V*!
 
 %15java.util.logging.Logger*
 
-%18java.lang.String2info(Ljava/lang/String;)Ã
-À
-o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java% %(
-%20java.util.logging.Logger"__id*&*$
-com.pmendonca.Fatorial"
-loggerÉÆ
-o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java% %(+
-
-%21int"com.pmendonca.Numero#valor()I*
-
-valorcom.pmendonca.Numero2valor()²
-¯
-o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java% %(+
-%22java.lang.String"__concat*	
-valor: *
-
-
-%21intŠ
-o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java% %(,
-%23void"2java.util.logging.Logger#info(Ljava/lang/String;)V*!
-
-%20java.util.logging.Logger*
-
-%22java.lang.String2info(Ljava/lang/String;)"
+%18java.lang.String2info(Ljava/lang/String;)"
 o
 eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java& &(
 com.pmendonca.Fatorial:
