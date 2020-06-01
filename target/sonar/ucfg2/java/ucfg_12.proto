@@ -1,21 +1,207 @@
 
-8com.pmendonca.Fatorial#resultado()Lcom/pmendonca/Numero;o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java& &("1*’
-1o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java' '(»
+Ocom.pmendonca.Fatorial#fatorial(Lcom/pmendonca/Numero;)Lcom/pmendonca/Fatorial;o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java
+ 
+("8*Ø
+2o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (Û
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (
+%11com.pmendonca.Numero"4com.pmendonca.Numero#duplica()Lcom/pmendonca/Numero;*
+
+valorcom.pmendonca.Numero2	duplica()∂
+≥
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (
+valcom.pmendonca.Numero"__id*
+
+%11com.pmendonca.Numero…
+∆
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java ("
+%12com.pmendonca.Multiplicador"__id*)*'
+com.pmendonca.Fatorial"
+	resultado‘—
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java ( "
+%13com.pmendonca.Multiplicador"Vcom.pmendonca.Multiplicador#vezes(Lcom/pmendonca/Numero;)Lcom/pmendonca/Multiplicador;*$
+"
+%12com.pmendonca.Multiplicador*
+
+valcom.pmendonca.Numero2vezes(Lcom/pmendonca/Numero;)ÎË
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (
+%14com.pmendonca.Numero"0com.pmendonca.Numero#dec()Lcom/pmendonca/Numero;*
+
+valorcom.pmendonca.Numero2dec()û
+õ
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java   (
+%15java.io.PrintStream"__id*
+""…
+∆
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java ,  (5"
+%16com.pmendonca.Multiplicador"__id*)*'
+com.pmendonca.Fatorial"
+	resultadoÉÄ
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java ,  (A
+%17com.pmendonca.Numero"=com.pmendonca.Multiplicador#resultado()Lcom/pmendonca/Numero;*$
+"
+%16com.pmendonca.Multiplicador2resultado()∆
+√
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java   (A
+%18java.lang.String"__concat*
+
+resultado *
+
+%17com.pmendonca.NumeroâÜ
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java   (B
+%19void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%15java.io.PrintStream*
+
+%18java.lang.String2println(Ljava/lang/String;)û
+õ
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java! !(
+%20java.io.PrintStream"__id*
+""…∆
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java!) !(6
+
+%21int"com.pmendonca.Numero#valor()I*
+
+valorcom.pmendonca.Numero2valor()≤
+Ø
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java! !(6
+%22java.lang.String"__concat*	
+valor: *
+
+
+%21intâÜ
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java! !(7
+%23void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%20java.io.PrintStream*
+
+%22java.lang.String2println(Ljava/lang/String;)*
+3*»
+3o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (…∆
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (
+
+%10int"com.pmendonca.Numero#valor()I*
+
+valorcom.pmendonca.Numero2valor()*
+2
+1*õ
+4o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (ü
+ú
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (
+valcom.pmendonca.Numero"__id*
+""*
+3*Ñ
+5o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java ("ç
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (
+com.pmendonca.Fatorial*«
+6o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (»≈
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (	
+%9int"com.pmendonca.Numero#valor()I*
+
+valorcom.pmendonca.Numero2valor()*
+4
+5*ù
+7o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (ù
+ö
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (
+%5java.io.PrintStream"__id*
+""¶£
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (V
+
+%6void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%5java.io.PrintStream*86
+4Numero negativo nao tem fatorial, operacao invalida.2println(Ljava/lang/String;)»
 ≈
 o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java' '(!
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (!!
+%7com.pmendonca.Multiplicador"__id*)*'
+com.pmendonca.Fatorial"
+	resultado∑¥
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (+!
+%8com.pmendonca.Multiplicador"Tcom.pmendonca.Multiplicador#set(Lcom/pmendonca/Numero;)Lcom/pmendonca/Multiplicador;*#
+!
+%7com.pmendonca.Multiplicador*
+""2set(Lcom/pmendonca/Numero;)»
+≈
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (+'
+com.pmendonca.Fatorial"
+	resultado"__id*#
+!
+%8com.pmendonca.Multiplicador"ç
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (
+com.pmendonca.Fatorial*ò
+8o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (»
+≈
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (!
 %0com.pmendonca.Multiplicador"__id*)*'
 com.pmendonca.Fatorial"
-	resultadoÅ˛
+	resultado¶£
 o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java' '($
-%1com.pmendonca.Numero"=com.pmendonca.Multiplicador#resultado()Lcom/pmendonca/Numero;*#
-!
-%0com.pmendonca.Multiplicador2resultado()"è
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java& (,
+%1com.pmendonca.Numero"com.pmendonca.Numeroø
+º
 o
-eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java' '(%
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java" (/
+%2"com.pmendonca.Numero#<init>(I)V*
 
-%1com.pmendonca.NumeroB
+%1com.pmendonca.Numero*2Õ 
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (0!
+%3com.pmendonca.Multiplicador"Tcom.pmendonca.Multiplicador#set(Lcom/pmendonca/Numero;)Lcom/pmendonca/Multiplicador;*#
+!
+%0com.pmendonca.Multiplicador*
+
+%1com.pmendonca.Numero2set(Lcom/pmendonca/Numero;)»
+≈
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (0'
+com.pmendonca.Fatorial"
+	resultado"__id*#
+!
+%3com.pmendonca.Multiplicador»≈
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java (	
+%4int"com.pmendonca.Numero#valor()I*
+
+valorcom.pmendonca.Numero2valor()*
+6
+7*Ñ
+1o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java# #("ç
+o
+eC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Fatorial.java# #(
+com.pmendonca.Fatorial:
+valorcom.pmendonca.NumeroB
 com.pmendonca.Fatorial

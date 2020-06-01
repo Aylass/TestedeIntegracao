@@ -19,7 +19,7 @@ public class Multiplicador {
             // se um dos dois for 0, a resposta é zero porque 0*n=0
             resultado = resultado.set(new Numero(0));
             return this;
-        }
+        }   
         // nas proximas 4 linhas descobre e armazena a informacao de valor positivo ou
         // negativo dos numeros
 

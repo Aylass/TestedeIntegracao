@@ -1,7 +1,10 @@
 package com.pmendonca;
 
+import java.util.logging.Logger;
+
 public class Fatorial {
     Multiplicador resultado;
+    Logger logger = Logger.getLogger("log");
 
     public Fatorial(Multiplicador multiplicador){
         this.resultado=multiplicador;
@@ -13,7 +16,7 @@ public class Fatorial {
 
         if(valor.valor()<0){
             //numero negativo nao tem fatorial por definicao, operacao invalida.
-            System.out.println("Numero negativo nao tem fatorial, operacao invalida.");
+            logger.warning("Numero negativo nao tem fatorial, operacao invalida.");
             resultado = resultado.set(null);
             return this;
         }
@@ -29,8 +32,8 @@ public class Fatorial {
             val=valor.duplica();
             resultado.vezes(val);
             valor.dec();
-            System.out.println("resultado "+resultado.resultado());
-            System.out.println("valor: "+valor.valor());
+            logger.info("resultado "+resultado.resultado());
+            logger.info("valor: "+valor.valor());
         }
         return this;
     }
