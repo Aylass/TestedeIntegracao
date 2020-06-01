@@ -32,9 +32,9 @@ public class Fatorial {
             val=valor.duplica();
             resultado.vezes(val);
             valor.dec();
-            logger.info("resultado "+resultado.resultado());
-            logger.info("valor: "+valor.valor());
         }
+        logger.info("resultado :"+resultado.resultado());
+        logger.info("valor: "+valor.valor());
         return this;
     }
 
