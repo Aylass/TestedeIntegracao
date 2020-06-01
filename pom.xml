@@ -6,6 +6,13 @@
     <artifactId>testeIntegracao</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <sonar.projectKey>testeIntegracao</sonar.projectKey>
+        <sonar.organization>johnnyloreano</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>a5356cc130ac857db048f6f67405891438c26394</sonar.login>
+    </properties>
+
     <dependencies>
 
         <!-- https://mvnrepository.com/artifact/org.assertj/assertj-core -->
