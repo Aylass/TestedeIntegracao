@@ -1,5 +1,6 @@
 package com.pmendonca;
 
+
 public class Fatorial {
     Multiplicador resultado;
 
