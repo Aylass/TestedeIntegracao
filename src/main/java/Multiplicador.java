@@ -1,4 +1,3 @@
-package com.pmendonca;
 
 import java.util.logging.Logger;
 

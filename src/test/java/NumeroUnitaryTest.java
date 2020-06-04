@@ -1,12 +1,10 @@
-package com.pmendonca;
-
 
 import org.junit.Test;
-import static org.mockito.Mockito.*;
+
 import static org.junit.Assert.*;
 
 
-public class NumeroTestUnitario {
+public class NumeroUnitaryTest {
 
     Numero numD;
 

@@ -1,4 +1,3 @@
-package com.pmendonca;
 
 import org.junit.Test;
 
