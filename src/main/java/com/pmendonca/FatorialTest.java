@@ -11,7 +11,7 @@ public class FatorialTest {
     Fatorial fat;
 
     @Test
-    public void fatorial() {
+    public void fatorial1() {
     num=new Numero(-1);
     som=new Somador();
     som.set(num);
