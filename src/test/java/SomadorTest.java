@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class SomadorNumeroTest {
+public class SomadorTest {
     Somador som;
     Numero num;
     Numero outro;
