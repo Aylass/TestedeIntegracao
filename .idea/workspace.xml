@@ -1,651 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="7d9f600e-aee7-4c8a-9bdc-d2ad183016c5" name="Default Changelist" comment="">
+    <list default="true" id="7ac2e43e-d63e-45cb-88ef-785e4cba2703" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pmendonca/FatorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pmendonca/FatorialTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pmendonca/SomaMultiplicadorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pmendonca/MultiplicadorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pmendonca/SomadorNumeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pmendonca/SomadorTest.java" afterDir="false" />
-=======
-    <list default="true" id="948e3498-68b1-4b10-9631-e3f17dae2eb1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_14_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hsqldb_hsqldb_2_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0_RC1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_1_0_RC1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_1_0_RC1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0_RC1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_1_0_RC1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FatorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FatorialTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NumeralTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NumeroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/NumeroTestUnitario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NumeroUnitaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SomaMultiplicadorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SomaMultiplicadorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SomadorNumeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SomadorNumeroTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pmendonca/Fatorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pmendonca/Fatorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pmendonca/Multiplicador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pmendonca/Multiplicador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pmendonca/Numero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pmendonca/Numero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pmendonca/Somador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pmendonca/Somador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FatorialTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FatorialTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/NumeralTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/NumeroTestUnitario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SomaMultiplicadorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SomaMultiplicadorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SomadorNumeroTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SomadorNumeroTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testeIntegracao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testeIntegracao.iml" afterDir="false" />
->>>>>>> b5a7ec1a20996ec9f2f1b0bf69ac1a366fc0694d
+      <change beforePath="$PROJECT_DIR$/out/production/main/com/pmendonca/Fatorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/com/pmendonca/FatorialTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/com/pmendonca/Multiplicador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/com/pmendonca/Numero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/com/pmendonca/NumeroTestUnitario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/com/pmendonca/SomaMultiplicadorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/com/pmendonca/Somador.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/com/pmendonca/SomadorNumeroTest.class" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/Fatorial.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MultiplicadorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/FatorialTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/Multiplicador.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+            <state relative-caret-position="170">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/MultiplicadorTest.java">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/Numero.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/NumeroTestUnitario.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/main.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/Somador.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/SomadorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-=======
->>>>>>> b5a7ec1a20996ec9f2f1b0bf69ac1a366fc0694d
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/pmendonca/Multiplicador.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pmendonca/Numero.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pmendonca/Fatorial.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pmendonca/NumeroTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pmendonca/NumeroTestUnitario.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pmendonca/SomadorNumeroTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pmendonca/SomaMultiplicadorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pmendonca/FatorialTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pmendonca/SomadorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/pmendonca/MultiplicadorTest.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
-=======
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
->>>>>>> b5a7ec1a20996ec9f2f1b0bf69ac1a366fc0694d
     </option>
   </component>
-  <component name="ProjectId" id="1cs5x2ft2Qq9UMslSMVvuttoq6b" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="VeriValNumeros" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="VeriValNumeros" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1044" />
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591308579649" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591311573620" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.pmendonca" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.FatorialTest.fatorial3">
-=======
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="ToolWindowAnt.ShowToolbar" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RunManager" selected="JUnit.FatorialTest.fatorial">
->>>>>>> b5a7ec1a20996ec9f2f1b0bf69ac1a366fc0694d
-    <configuration name="FatorialTest.fatorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="VeriValNumeros" />
+  <component name="RunManager">
+    <configuration name="MultiplicadorTest.vezes1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestedeIntegracao" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FatorialTest" />
-      <option name="METHOD_NAME" value="fatorial" />
+      <option name="MAIN_CLASS_NAME" value="MultiplicadorTest" />
+      <option name="METHOD_NAME" value="vezes1" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="FatorialTest.fatorial2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pmendonca.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pmendonca" />
-      <option name="MAIN_CLASS_NAME" value="com.pmendonca.FatorialTest" />
-      <option name="METHOD_NAME" value="fatorial2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FatorialTest.fatorial3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pmendonca.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pmendonca" />
-      <option name="MAIN_CLASS_NAME" value="com.pmendonca.FatorialTest" />
-      <option name="METHOD_NAME" value="fatorial3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiplicadorTest.dividido5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pmendonca.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pmendonca" />
-      <option name="MAIN_CLASS_NAME" value="com.pmendonca.MultiplicadorTest" />
-      <option name="METHOD_NAME" value="dividido5" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiplicadorTest.dividido6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.pmendonca.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.pmendonca" />
-      <option name="MAIN_CLASS_NAME" value="com.pmendonca.MultiplicadorTest" />
-      <option name="METHOD_NAME" value="dividido6" />
-      <option name="TEST_OBJECT" value="method" />
-=======
-    <configuration name="principalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="VeriValNumeros" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="principalTest" />
-      <option name="TEST_OBJECT" value="class" />
->>>>>>> b5a7ec1a20996ec9f2f1b0bf69ac1a366fc0694d
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FatorialTest.fatorial" />
-        <item itemvalue="JUnit.principalTest" />
+        <item itemvalue="JUnit.MultiplicadorTest.vezes1" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="948e3498-68b1-4b10-9631-e3f17dae2eb1" name="Default Changelist" comment="" />
-      <created>1591304702925</created>
+      <changelist id="7ac2e43e-d63e-45cb-88ef-785e4cba2703" name="Default Changelist" comment="" />
+      <created>1591311182886</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1591048274654</updated>
-      <workItem from="1591048276013" duration="6096000" />
-      <workItem from="1591135388402" duration="6125000" />
-      <workItem from="1591142754881" duration="963000" />
-      <workItem from="1591308486408" duration="115000" />
+      <updated>1591311182886</updated>
+      <workItem from="1591311187996" duration="486000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="SomaMultiplicadorTest_dividido2 - 2020.06.02 at 20h 27m 40s.xml">
-      <configuration name="SomaMultiplicadorTest.dividido2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SomaMultiplicadorTest_dividido3 - 2020.06.02 at 20h 29m 36s.xml">
-      <configuration name="SomaMultiplicadorTest.dividido3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SomaMultiplicadorTest_dividido4 - 2020.06.02 at 20h 30m 30s.xml">
-      <configuration name="SomaMultiplicadorTest.dividido4" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SomaMultiplicadorTest_dividido5 - 2020.06.02 at 20h 31m 17s.xml">
-      <configuration name="SomaMultiplicadorTest.dividido5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SomaMultiplicadorTest_dividido6 - 2020.06.02 at 20h 31m 52s.xml">
-      <configuration name="SomaMultiplicadorTest.dividido6" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FatorialTest_fatorial - 2020.06.02 at 20h 42m 44s.xml">
-      <configuration name="FatorialTest.fatorial" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FatorialTest_fatorial2 - 2020.06.02 at 20h 43m 44s.xml">
-      <configuration name="FatorialTest.fatorial2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FatorialTest_fatorial2 - 2020.06.02 at 20h 43m 56s.xml">
-      <configuration name="FatorialTest.fatorial2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FatorialTest_fatorial3 - 2020.06.02 at 20h 44m 16s.xml">
-      <configuration name="FatorialTest.fatorial3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FatorialTest_fatorial3 - 2020.06.02 at 20h 44m 52s.xml">
-      <configuration name="FatorialTest.fatorial3" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13299000" />
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3285968" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36589697" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
-      <window_info anchor="right" id="Database" order="7" weight="0.32955465" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.24939272" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.32955465" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/Fatorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/FatorialTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/Multiplicador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/Numero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/NumeroTestUnitario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/main.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/semestre 5/trabalhoVVrep/TrabalhoTesteUnitario/school.test/src/test/java/org/DepCompTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/Somador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/SomadorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/pmendonca/MultiplicadorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>com.google.code.maven-play-plugin.com.google.code.eamelink-mockito:mockito-all:1.9.1-20110911</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>main</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: Arquillian JUnit:Release</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
-=======
-      <updated>1591304702925</updated>
-    </task>
-    <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1591307451102">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591307451102" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1591307451102">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591307451102" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1591307451102">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591307451102" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1591307451102">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591307451102" />
-    <state x="1587" y="-380" key="SettingsEditor" timestamp="1591305003666">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state x="1587" y="-380" key="SettingsEditor/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591305003666" />
-    <state x="1782" y="-363" width="607" height="804" key="find.popup" timestamp="1591305284995">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state x="1782" y="-363" width="607" height="804" key="find.popup/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591305284995" />
-    <state x="1742" y="0" key="run.anything.popup" timestamp="1591306129053">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state x="1742" y="0" key="run.anything.popup/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591306129053" />
->>>>>>> b5a7ec1a20996ec9f2f1b0bf69ac1a366fc0694d
   </component>
 </project>
