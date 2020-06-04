@@ -11,6 +11,8 @@
         <sonar.organization>johnnyloreano</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <sonar.login>a5356cc130ac857db048f6f67405891438c26394</sonar.login>
+
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
@@ -20,22 +22,29 @@
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
             <version>3.14.0</version>
-            <scope>test</scope>
+
         </dependency>
 
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.11</version>
+
+        </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.1.0-RC1</version>
-            <scope>test</scope>
+
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-params</artifactId>
             <version>5.1.0-RC1</version>
-            <scope>test</scope>
+
         </dependency>
         <dependency>
             <groupId>org.mockito</groupId>
@@ -56,7 +65,7 @@
             <artifactId>javafx-controls</artifactId>
             <version>11</version>
         </dependency>
-        --> 
+        -->
     </dependencies>
 
     <build>

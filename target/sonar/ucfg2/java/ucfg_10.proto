@@ -1,31 +1,0 @@
-
-Ccom.pmendonca.Multiplicador#sinalDiferente(Lcom/pmendonca/Numero;)Zt
-jC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Multiplicador.javaS S(!"1*ã
-1t
-jC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Multiplicador.javaT  T()Ì
-É
-t
-jC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Multiplicador.javaT  T()
-%0com.pmendonca.Somador"__id*.*,
-com.pmendonca.Multiplicador"
-	resultadoú÷
-t
-jC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Multiplicador.javaT  T(5
-%1com.pmendonca.Numero"7com.pmendonca.Somador#resultado()Lcom/pmendonca/Numero;*
-
-%0com.pmendonca.Somador2resultado()ÊÇ
-t
-jC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Multiplicador.javaT  T(=	
-%2int"com.pmendonca.Numero#valor()I*
-
-%1com.pmendonca.Numero2valor()ÎË
-t
-jC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Multiplicador.javaU U(*	
-%3int"com.pmendonca.Numero#valor()I* 
-
-numerocom.pmendonca.Numero2valor()"~
-t
-jC:/Users/John Peter/Desktop/Aulas/VERIVAL/TestedeIntegracao/src/main/java/com/pmendonca/Multiplicador.javaV V((
-"":
-numerocom.pmendonca.NumeroB
-com.pmendonca.Multiplicador
