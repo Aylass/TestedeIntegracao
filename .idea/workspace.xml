@@ -1,38 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d9f600e-aee7-4c8a-9bdc-d2ad183016c5" name="Default Changelist" comment="">
+    <list default="true" id="948e3498-68b1-4b10-9631-e3f17dae2eb1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_14_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hsqldb_hsqldb_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0_RC1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_1_0_RC1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_1_0_RC1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0_RC1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_1_0_RC1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pmendonca/Multiplicador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pmendonca/Multiplicador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FatorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FatorialTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NumeralTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NumeroTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/NumeroTestUnitario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/NumeroUnitaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SomaMultiplicadorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SomaMultiplicadorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SomadorNumeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SomadorNumeroTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pmendonca/Fatorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pmendonca/Fatorial.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/pmendonca/Multiplicador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pmendonca/Multiplicador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pmendonca/Numero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pmendonca/Numero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/pmendonca/Somador.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pmendonca/Somador.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/jacoco.exec" beforeDir="false" afterPath="$PROJECT_DIR$/target/jacoco.exec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FatorialTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FatorialTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/NumeralTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/NumeroTestUnitario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SomaMultiplicadorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SomaMultiplicadorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SomadorNumeroTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SomadorNumeroTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testeIntegracao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testeIntegracao.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="113" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -46,102 +68,45 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1cmsrOpxMa0nzaeqQt5BnjRRdFE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1cs5x2ft2Qq9UMslSMVvuttoq6b" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591141542787" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowAnt.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.pmendonca" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\John Peter\Desktop\Aulas\VERIVAL\TestedeIntegracao" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.SomaMultiplicadorTest.vezes2">
-    <configuration name="SomaMultiplicadorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testeIntegracao" />
+  <component name="RunManager" selected="JUnit.FatorialTest.fatorial">
+    <configuration name="FatorialTest.fatorial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VeriValNumeros" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SomaMultiplicadorTest" />
+      <option name="MAIN_CLASS_NAME" value="FatorialTest" />
+      <option name="METHOD_NAME" value="fatorial" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="principalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VeriValNumeros" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="principalTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SomaMultiplicadorTest.vezes1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testeIntegracao" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SomaMultiplicadorTest" />
-      <option name="METHOD_NAME" value="vezes1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SomaMultiplicadorTest.vezes2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testeIntegracao" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SomaMultiplicadorTest" />
-      <option name="METHOD_NAME" value="vezes2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SomadorNumeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testeIntegracao" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SomadorNumeroTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SomadorNumeroTest.somaTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testeIntegracao" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SomadorNumeroTest" />
-      <option name="METHOD_NAME" value="somaTest1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SomaMultiplicadorTest.vezes2" />
-        <item itemvalue="JUnit.SomaMultiplicadorTest.vezes1" />
-        <item itemvalue="JUnit.SomaMultiplicadorTest" />
-        <item itemvalue="JUnit.SomadorNumeroTest" />
-        <item itemvalue="JUnit.SomadorNumeroTest.somaTest1" />
+        <item itemvalue="JUnit.FatorialTest.fatorial" />
+        <item itemvalue="JUnit.principalTest" />
       </list>
     </recent_temporary>
   </component>
@@ -150,113 +115,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7d9f600e-aee7-4c8a-9bdc-d2ad183016c5" name="Default Changelist" comment="" />
-      <created>1591048274654</created>
+      <changelist id="948e3498-68b1-4b10-9631-e3f17dae2eb1" name="Default Changelist" comment="" />
+      <created>1591304702925</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1591048274654</updated>
-      <workItem from="1591048276013" duration="6096000" />
-      <workItem from="1591135388402" duration="6125000" />
+      <updated>1591304702925</updated>
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12221000" />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="1683" y="-293" key="#NumeralTest" timestamp="1591149276207">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1591307451102">
       <screen x="1366" y="-391" width="1440" height="860" />
     </state>
-    <state x="1683" y="-293" key="#NumeralTest/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591149276207" />
-    <state x="1678" y="-302" key="#Project_Structure" timestamp="1591146358202">
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591307451102" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1591307451102">
       <screen x="1366" y="-391" width="1440" height="860" />
     </state>
-    <state x="1678" y="-302" key="#Project_Structure/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591146358202" />
-    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591145362818">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/1366.-391.1440.860@0.0.1366.728" timestamp="1591145362818" />
-    <state x="1882" y="-101" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591299958553">
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591307451102" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1591307451102">
       <screen x="1366" y="-391" width="1440" height="860" />
     </state>
-    <state x="1882" y="-101" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591299958553" />
-    <state x="1866" y="-205" key="FileChooserDialogImpl" timestamp="1591301590517">
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591307451102" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1591307451102">
       <screen x="1366" y="-391" width="1440" height="860" />
     </state>
-    <state x="1866" y="-205" key="FileChooserDialogImpl/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591301590517" />
-    <state width="1397" height="228" key="GridCell.Tab.0.bottom" timestamp="1591301235575">
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591307451102" />
+    <state x="1587" y="-380" key="SettingsEditor" timestamp="1591305003666">
       <screen x="1366" y="-391" width="1440" height="860" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-391.1440.860@0.0.1366.728" timestamp="1591145958927" />
-    <state width="1397" height="228" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591301235575" />
-    <state width="1397" height="228" key="GridCell.Tab.0.center" timestamp="1591301235575">
+    <state x="1587" y="-380" key="SettingsEditor/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591305003666" />
+    <state x="1782" y="-363" width="607" height="804" key="find.popup" timestamp="1591305284995">
       <screen x="1366" y="-391" width="1440" height="860" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.center/0.0.1366.728/1366.-391.1440.860@0.0.1366.728" timestamp="1591145958926" />
-    <state width="1397" height="228" key="GridCell.Tab.0.center/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591301235575" />
-    <state width="1397" height="228" key="GridCell.Tab.0.left" timestamp="1591301235575">
+    <state x="1782" y="-363" width="607" height="804" key="find.popup/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591305284995" />
+    <state x="1742" y="0" key="run.anything.popup" timestamp="1591306129053">
       <screen x="1366" y="-391" width="1440" height="860" />
     </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.left/0.0.1366.728/1366.-391.1440.860@0.0.1366.728" timestamp="1591145958926" />
-    <state width="1397" height="228" key="GridCell.Tab.0.left/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591301235575" />
-    <state width="1397" height="228" key="GridCell.Tab.0.right" timestamp="1591301235575">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state width="1323" height="201" key="GridCell.Tab.0.right/0.0.1366.728/1366.-391.1440.860@0.0.1366.728" timestamp="1591145958927" />
-    <state width="1397" height="228" key="GridCell.Tab.0.right/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591301235575" />
-    <state width="1397" height="275" key="GridCell.Tab.1.bottom" timestamp="1591301231027">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state width="1397" height="275" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591301231027" />
-    <state width="1397" height="275" key="GridCell.Tab.1.center" timestamp="1591301231027">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state width="1397" height="275" key="GridCell.Tab.1.center/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591301231027" />
-    <state width="1397" height="275" key="GridCell.Tab.1.left" timestamp="1591301231027">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state width="1397" height="275" key="GridCell.Tab.1.left/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591301231027" />
-    <state width="1397" height="275" key="GridCell.Tab.1.right" timestamp="1591301231027">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state width="1397" height="275" key="GridCell.Tab.1.right/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591301231027" />
-    <state x="1587" y="-318" key="SettingsEditor" timestamp="1591146167724">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state x="1587" y="-318" key="SettingsEditor/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591146167724" />
-    <state x="1766" y="-168" key="com.intellij.ide.util.TipDialog" timestamp="1591299730172">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-391.1440.860@0.0.1366.728" timestamp="1591145328971" />
-    <state x="1766" y="-168" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591299730172" />
-    <state x="1790" y="-67" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591148551143">
-      <screen x="1366" y="-391" width="1440" height="860" />
-    </state>
-    <state x="1790" y="-67" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591148551143" />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TestedeIntegracao$FatorialTest.ic" NAME="FatorialTest Coverage Results" MODIFIED="1591149399606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.pmendonca.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/TestedeIntegracao$NumeroTestUnitario.ic" NAME="NumeroTestUnitario Coverage Results" MODIFIED="1591149414580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.pmendonca.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/TestedeIntegracao$All_in_testeIntegracao.ic" NAME="All in testeIntegracao Coverage Results" MODIFIED="1591300027835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/TestedeIntegracao$NumeralTest.ic" NAME="NumeralTest Coverage Results" MODIFIED="1591149407402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.pmendonca.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/TestedeIntegracao$FatorialTest_fatorial3.ic" NAME="FatorialTest.fatorial3 Coverage Results" MODIFIED="1591145958865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.pmendonca.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/TestedeIntegracao$SomadorNumeroTest.ic" NAME="SomadorNumeroTest Coverage Results" MODIFIED="1591149421582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.pmendonca.*</FILTER>
-    </SUITE>
+    <state x="1742" y="0" key="run.anything.popup/0.0.1366.728/1366.-391.1440.860@1366.-391.1440.860" timestamp="1591306129053" />
   </component>
 </project>

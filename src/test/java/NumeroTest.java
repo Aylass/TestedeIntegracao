@@ -1,10 +1,9 @@
-import com.pmendonca.Numero;
-import org.junit.Test;
 
+import org.junit.Test;
 import static org.junit.Assert.*;
 
 
-public class NumeroTestUnitario {
+public class NumeroTest {
 
     Numero numD;
 

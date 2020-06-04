@@ -1,10 +1,7 @@
-import com.pmendonca.Multiplicador;
-import com.pmendonca.Numero;
-import com.pmendonca.Somador;
-import org.junit.Test;
-import static org.mockito.Mockito.*;
-import static org.junit.Assert.*;
 
+import org.junit.Test;
+
+import static org.junit.Assert.*;
 
 public class SomaMultiplicadorTest {
     Somador som;

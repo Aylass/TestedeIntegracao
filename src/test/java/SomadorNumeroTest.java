@@ -1,7 +1,7 @@
-import com.pmendonca.Numero;
-import com.pmendonca.Somador;
+
+
 import org.junit.Test;
-import static org.mockito.Mockito.*;
+
 import static org.junit.Assert.*;
 
 public class SomadorNumeroTest {
