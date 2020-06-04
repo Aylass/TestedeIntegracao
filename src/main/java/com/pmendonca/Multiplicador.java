@@ -1,7 +1,10 @@
 package com.pmendonca;
 
+import java.util.logging.Logger;
+
 public class Multiplicador {
     private Somador resultado;
+    Logger logger = Logger.getLogger("log");
 
     public Multiplicador(Somador somador){
         this.resultado = somador;
@@ -19,10 +22,7 @@ public class Multiplicador {
             return this;
         }
         //nas proximas 4 linhas descobre e armazena a informacao de valor positivo ou negativo dos numeros
-        boolean resultadoPos = true;
-        boolean outroPos = true;
-        if(resultado.resultado().valor()<0)resultadoPos=false;
-        if(outro.valor()<0)outroPos=false;
+        boolean sinalDiferente = sinalDiferente(outro);
 
         //transforma os dois valores em positivo para multiplicar com o while
         resultado = resultado.set(resultado.resultado().abs());
@@ -36,7 +36,7 @@ public class Multiplicador {
         }
 
         //se os sinais forem diferentes, o resultado era pra ser negativo, entao transforma em negativo
-        if(resultadoPos!=outroPos){
+        if(sinalDiferente){
             resultado = resultado.set(new Numero(-resultado.resultado().valor()));
         }
         return this;
@@ -45,7 +45,7 @@ public class Multiplicador {
     public Multiplicador dividido(Numero outro){
         if(outro.valor()==0){
             //divisao por 0 é indefinido, operacao invalida.
-            System.out.println("Divisao por 0, invalido!");
+            logger.warning("Divisao por 0, invalido!");
             resultado=resultado.set(null);
             return this;
         }
@@ -55,10 +55,7 @@ public class Multiplicador {
             return this;
         }
         //nas proximas 4 linhas descobre e armazena a informacao de valor positivo ou negativo dos numeros
-        boolean resultadoPos = true;
-        boolean outroPos = true;
-        if(resultado.resultado().valor()<0)resultadoPos=false;
-        if(outro.valor()<0)outroPos=false;
+        boolean sinalDiferente = sinalDiferente(outro);
 
         //transforma os dois valores em positivo para multiplicar com o while
         resultado = resultado.set(resultado.resultado().abs());
@@ -74,7 +71,7 @@ public class Multiplicador {
         resultado = resultado.set(new Numero(count.valor()));
 
         //se os sinais forem diferentes, o resultado era pra ser negativo, entao transforma em negativo
-        if(resultadoPos!=outroPos){
+        if(sinalDiferente   ){
             resultado = resultado.set(new Numero(-resultado.resultado().valor()));
         }
         return this;
@@ -83,4 +80,11 @@ public class Multiplicador {
     public Numero resultado(){
         return resultado.resultado();
     }
+
+    public boolean sinalDiferente(Numero numero) {
+        boolean resultadoPos = (resultado.resultado().valor() >= 0);
+        boolean outroPos = (numero.valor() >= 0);
+        return resultadoPos != outroPos;
+    }
+
 }
